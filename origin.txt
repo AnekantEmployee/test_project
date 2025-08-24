@@ -1,4 +1,3 @@
 Hello world from origin
 
 
-I am a line from master
